@@ -1,0 +1,10 @@
+flask
+tensorflow
+numpy
+opencv-python
+dlib
+matplotlib
+urllib3
+bz2file
+werkzeug
+scipy
